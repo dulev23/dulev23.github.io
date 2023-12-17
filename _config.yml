@@ -1,6 +1,6 @@
 title: FirstProject
 author: "Blog Author"
-theme: jekyll-theme-minimum
+# theme: jekyll-theme-minimum
 description: Bookmark this to keep an eye on my project updates!
 permalink: /:title/
 lang: "en"
