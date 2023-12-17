@@ -10,20 +10,20 @@ date_format: "%B %d, %Y"
 
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+show_sidebar: false        # Show a sidebar instead of the usual header
 minimal: true             # use a dark header
 
 # Menu
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
+navigation:                # accepts {file, title, URL, icon, sidebaricon}
   - {file: "Home.html", title: "Home"}
   - {file: "Calculator.html", title: "Converter"}
   - {file: "About US.html", title: "Contributors"}
 
 # external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-#   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-#   - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-#   - {title: Subscribe, icon: rss, url: "/feed.xml"}
+#   - {title: Mail, icon: envelope, URL: "mailto:niklasbuschmann@users.noreply.github.com"}
+#   - {title: Github, icon: GitHub, URL: "https://github.com/niklasbuschmann/contrast"}
+#   - {title: Subscribe, icon: RSS, URL: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
