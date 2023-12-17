@@ -17,4 +17,4 @@ LinkedIN account - (https://www.linkedin.com/in/stefan-tagarski/) </br>
 
 **Aleksandar Tashev** </br>
 GitHub account - (https://github.com/tashev29) </br>
-LinkenIN account - (https://www.linkedin.com/in/aleksandar/) </br> 
+LinkenIN account - (https://www.linkedin.com/in/aleksandartashev/) </br> 
