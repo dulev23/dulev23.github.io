@@ -1,4 +1,4 @@
-title: "FirstProject"
+title: "Unit Converter"
 author: "DevTeamSR"
 description: Unit Converter Project
 permalink: /:title/
@@ -16,7 +16,7 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Home.html", icon: "home"}
+  - {file: "Home.html", title: "Home"}
   - {file: "Calculator.html", title: "Converter"}
   - {file: "About US.html", title: "Contributors"}
 
