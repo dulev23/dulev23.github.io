@@ -13,7 +13,7 @@ LinkedIN account - (https://www.linkedin.com/in/nikola-dulev/) </br>
 
 **Stefan Tagarski** </br>
 GitHub account - (https://github.com/stefantagarski) </br>
-LinkedIN account - (https://www.linkedin.com/in/stefan-tagarski/) </br> 
+LinkedIN account - (https://www.linkedin.com/in/stefan-tagarski) </br> 
 
 **Aleksandar Tashev** </br>
 GitHub account - (https://github.com/tashev29) </br>
